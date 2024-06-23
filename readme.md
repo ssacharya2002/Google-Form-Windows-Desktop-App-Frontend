@@ -41,4 +41,13 @@ cd Google-Form-Windows-Desktop-App-Frontend
      dotnet run
    ```
 
-   
+## Screenshots
+### create submission 
+![image](https://github.com/ssacharya2002/Google-Form-Windows-Desktop-App-Frontend/assets/86561217/b6e6e27a-c9f8-4db8-a5a6-fede881ae5af)
+
+### view submission
+
+![image](https://github.com/ssacharya2002/Google-Form-Windows-Desktop-App-Frontend/assets/86561217/65e66658-d2a9-4c18-914b-2e41e3e22d7b)
+
+### search
+![image](https://github.com/ssacharya2002/Google-Form-Windows-Desktop-App-Frontend/assets/86561217/7dee7f94-e121-42cc-bfde-317fe6ae028e)
